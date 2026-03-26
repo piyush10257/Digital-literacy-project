@@ -1,3 +1,6 @@
+<img width="1366" height="768" alt="form2" src="https://github.com/user-attachments/assets/f2ec245e-c4fd-4910-821b-8e315c49d47b" />
+<img width="1366" height="768" alt="form1" src="https://github.com/user-attachments/assets/1af5d761-fdac-4e22-b409-81b3e370ac63" />
+<img width="1366" height="768" alt="form" src="https://github.com/user-attachments/assets/e8137f94-12ad-4146-a085-84754b92cd71" />
 <img width="1366" height="768" alt="Screenshot of hacker rank" src="https://github.com/user-attachments/assets/67d9b4a6-7c2f-4691-877d-ac52eb9100d7" />
 Task 3: Technical Platforms and Cloud Collaboration
 🐍 Part A: Python Programming (HackerRank)
