@@ -1,3 +1,6 @@
+<img width="1366" height="768" alt="researchgate-profile" src="https://github.com/user-attachments/assets/3165b990-b85a-4e5d-b35e-2c4e66b21244" />
+<img width="1366" height="768" alt="linkedin-screenshot" src="https://github.com/user-attachments/assets/033812b2-53df-48fc-8dd3-f17020b14032" />
+<img width="1366" height="768" alt="github-profile" src="https://github.com/user-attachments/assets/b15bf998-7ffd-4d24-ba70-73c02b6c40aa" />
 # Task 2: Build Your Student Digital Portfolio
 
 ### Platforms Chosen
