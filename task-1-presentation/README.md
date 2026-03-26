@@ -14,3 +14,8 @@ My design covers:
 
 ## Reflection
 I found it interesting how icons can simplify complex topics. The most difficult part was choosing only the most important information to keep the design clean.
+
+![Infographic](./Yellow Illustrative Digital Education For Children Infographic.png)
+
+
+
