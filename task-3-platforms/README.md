@@ -5,4 +5,4 @@ For this task, I used HackerRank to practice core Python concepts. I successfull
 ☁️ Part B: Cloud Collaboration (Google Workspace)
 I developed a Digital Literacy Awareness Quiz using Google Forms and integrated it with Google Sheets for real-time, automated data collection. This setup demonstrates how cloud-based tools can streamline data management. These skills are essential for academic research and professional project management.
 View my Quiz here: [ https://docs.google.com/forms/d/e/1FAIpQLSeMrdXyjvmiTOzrV93UA4m7NtdTPocs2U4Hmgh1m2SqI0Jh_w/viewform?usp=dialog]
-[form.pdf](https://github.com/user-attachments/files/26277486/form.pdf)
+ 
